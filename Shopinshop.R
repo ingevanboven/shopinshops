@@ -31,7 +31,7 @@
   # Name shop | jaartal | weeknummer
   SHOP <- "After dinner shop"
   year <- 2019
-  weekNR <- 9
+  weekNR <- 11
 }
 
 #After Dinner Shop - S&N MESSAGE
