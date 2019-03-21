@@ -4,6 +4,7 @@
 {
   library(stringr)
   library(lubridate)
+  library(plyr)
   library(dplyr)
   library(ISOweek)
   library(googlesheets)
